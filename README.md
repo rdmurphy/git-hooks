@@ -1,5 +1,7 @@
 # @zeit/git-hooks
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zeit/git-hooks.svg)](https://greenkeeper.io/)
+
 No nonsense [Git hook](https://git-scm.com/docs/githooks) management.
 
 ![](screenshot.png)
